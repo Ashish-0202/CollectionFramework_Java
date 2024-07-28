@@ -4,6 +4,8 @@ The Queue Interface is present in java.util package and extends the Collection i
 
 ![img.png](img.png)
 
+    Queue<Integer> queue=new LinkedList<>();
+
 Operations in queue:
 
 offer() : Used to insert an element into rear end of the queue.
